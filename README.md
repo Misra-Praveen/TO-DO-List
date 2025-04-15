@@ -17,18 +17,26 @@ This is a simple To-Do List application built with React and Tailwind CSS. It al
 1. **Clone the repository**
 ```bash
 git clone https://github.com/Misra-Praveen/TO-DO-List.git
+```
 
+2. **Navigate into the folder**
+```bash
+cd tO-dO-list
+```
 
-2. Navigate into the folder
-cd TO-DO-List
-
-3. Install dependencies
+3. **Install dependencies**
+```bash
 npm install
+```
 
-4. Install TailwindCSS
+4. **Install TailwindCSS**
+```bash
 npm install tailwindcss @tailwindcss/vite
+```
 
-5. Start the development server
+5. **Start the development server**
+```bash
 npm run dev
+```
 
-Then open your browser and go to: http://localhost:5173
+**Then open your browser and go to: http://localhost:5173**
